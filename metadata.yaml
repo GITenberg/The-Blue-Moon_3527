@@ -1,0 +1,33 @@
+_repo: The-Blue-Moon_3527
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Housman, Laurence
+    aliases:
+    - Bunny, Benjamin
+    - Housman, Lawrence
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '1218'
+    url: http://www.gutenberg.org/2009/agents/1218
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Housman
+description: ''
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The blue moon -- A Chinese fairy-tale -- The way of the wind -- A
+  capful of moonshine -- The moon-stroke -- How little Duke Jarl saved the castle
+  -- The white doe -- The gentle cockatrice -- The rat-catcher's daughter -- White
+  birch.
+title: The Blue Moon
+url: http://www.gutenberg.org/ebooks/3527
