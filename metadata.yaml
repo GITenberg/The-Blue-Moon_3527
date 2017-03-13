@@ -1,5 +1,8 @@
 _repo: The-Blue-Moon_3527
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Housman, Laurence
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1218
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Housman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3527#The-Blue-Moon
 gutenberg_issued: '2002-11-01'
 gutenberg_type: Text
 identifiers:
